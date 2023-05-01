@@ -1,0 +1,18 @@
+{
+  "name": "netlify-geoip",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/accudio/netlify-geoip.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "netlify": "^13.1.5"
+  }
+}
